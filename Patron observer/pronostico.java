@@ -24,5 +24,6 @@ public class pronostico implements Observer, Display {
      } else if (currentPressure < lastPressure) {
       System.out.println("Mucho frio ponte un sueter");
      }
+     System.out.print("SERGIO ALBERTO GARZA AGUILAR");
     }
    }

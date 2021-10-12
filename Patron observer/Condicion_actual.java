@@ -16,7 +16,7 @@ public class Condicion_actual implements Observer, Display {
     }
     
     public void display() {
-     System.out.println("Condiciones Actuales por SERGIO GARZA AGUILAR: " + temperatura 
+     System.out.println("Condiciones Actuales: " + temperatura 
       + "F grados y " + humedad + "% humedad");
     }
    }
