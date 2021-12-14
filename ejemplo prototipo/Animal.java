@@ -1,5 +1,5 @@
 public interface Animal extends Cloneable {
-	
-	public Animal makeCopy();
-	
+    
+    public Animal makeCopy();
+
 }
